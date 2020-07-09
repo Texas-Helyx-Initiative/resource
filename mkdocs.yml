@@ -1,0 +1,6 @@
+site_name: Texas Helyx Initiative
+
+nav:
+  - Home: index.md
+theme:
+  name: material
